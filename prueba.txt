@@ -1,3 +1,5 @@
 Escribo cambios para probarlo en git.
 
-ruebo por sgeunda vez el cmbio
+ruebo por sgeunda vez el cmbio.
+
+Escribo un nuevo cambio hecho ya en code
