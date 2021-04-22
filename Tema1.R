@@ -25,4 +25,5 @@ ggplot(cars, aes(speed, dist))+
   geom_point(colour = "blue")
 
 hist(cars)
-hist(cars$dist, breaks = 7, col = "Blue")
+hist(cars$dist, breaks = 7, col = "Blue",
+     main = "Histograma de frequencias",xlab = "Divisiones")
