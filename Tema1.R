@@ -25,4 +25,4 @@ ggplot(cars, aes(speed, dist))+
   geom_point(colour = "blue")
 
 hist(cars)
-hist(cars$dist, breaks = 7)
+hist(cars$dist, breaks = 7, col = "Blue")
