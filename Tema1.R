@@ -6,6 +6,7 @@
 
 data <- cars
 head(cars)
+str(cars)
 
 # se raliza una auditoria de datos 
 library(funModeling)
