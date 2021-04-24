@@ -29,6 +29,6 @@ ggplot(cars, aes(speed, dist))+
 hist(cars)
 hist(cars$dist, breaks = 7, col = "Blue",
      main = "Histograma de frequencias de la velocidad",xlab = "Divisiones",
-     ylab = "Frecuencia y frequencie")
+     ylab = "Frecuencia")
 
 
