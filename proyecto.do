@@ -2,7 +2,7 @@
 **** PROYECTO: CÁLCULO DE INDICADORES
 **** OBJETIVO: Crear el Indicador:  Hogares con presencia de **** algún menor de 18 años de edad, según área de residencia 
 **** Año	 : 2019
-**** FECHA	 : 17/10/2020
+**** FECHA	 : 24/04/2021
 **** Stata   : version 16
 **** Restricciones:
 **** - Se consideraron a las viviendas con a lo más hogares para ser comparado con la ENAHO
