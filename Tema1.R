@@ -30,7 +30,8 @@ hist(cars)
 hist(cars$dist, breaks = 7, col = "red",
      main = "Histograma de la velocidad",xlab = "Intervalos",
      ylab = "Frecuencia", labels = T)
-# Agregar Interpretación:
+
+# AGREGAR INTERPRETCIÓN:
 
 # El histograma muestra la distribución de la velocidad
 
