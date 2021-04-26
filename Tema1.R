@@ -29,7 +29,7 @@ ggplot(cars, aes(speed, dist))+
 hist(cars)
 hist(cars$dist, breaks = 7, col = "red",
      main = "Histograma de la velocidad",xlab = "Intervalos",
-     ylab = "Frecuencia", labels = T)
+     ylab = "Frecuencia", labels = F)
 
 # AGREGAR INTERPRETACIÓN:
 
