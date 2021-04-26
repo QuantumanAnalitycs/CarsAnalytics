@@ -34,5 +34,6 @@ hist(cars$dist, breaks = 7, col = "red",
 # AGREGAR INTERPRETCIÓN:
 
 # El histograma muestra la distribución de la velocidad
+# dividida en 7 intervalos.
 
 
