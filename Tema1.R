@@ -1,7 +1,7 @@
 # OULTIERS CONSULTING.SA.C
 # AUTOR: DENIS RODRIGUEZ CORTEGANA
 # FECHA: 24/04/2021
-
+# AUTOR: Denis Yen
 
 # Ejemplo para GitHub -----------------------------------------------------
 
@@ -35,5 +35,7 @@ hist(cars$dist, breaks = 7, col = "red",
 
 # El histograma muestra la distribución de la velocidad
 # dividida en 7 intervalos regulares.
+
+# NUEVA SECCIÓN -----------------------------------------------------------
 
 
