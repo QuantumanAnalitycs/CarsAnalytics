@@ -42,5 +42,5 @@ hist(cars$dist, breaks = 7, col = "red",
 
 
 # RAMA 2 ------------------------------------------------------------------
-# El que se va encargar de la actualización de la rama2 será gery
+# El que se va encargar de la actualización de la rama2 será gerly.
 
