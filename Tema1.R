@@ -39,6 +39,7 @@ hist(cars$dist, breaks = 7, col = "red",
 # NUEVA SECCIÓN -----------------------------------------------------------
 
 # Se corrigió el error.
+# se corrigió nuevamente el error(incompleto).
 
 
 # RAMA 2 ------------------------------------------------------------------
