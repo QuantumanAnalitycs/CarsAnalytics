@@ -1,6 +1,6 @@
 # OULTIERS CONSULTING.SA.C
 # AUTOR: DENIS RODRIGUEZ CORTEGANA
-# FECHA: 24/04/2021
+# FECHA: 24/04/2021 (fecha del proyecto)
 # AUTOR: Denis Yen
 
 # Ejemplo para GitHub -----------------------------------------------------
